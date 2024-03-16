@@ -1,3 +1,12 @@
+npm install react-native-screens react-native-safe-area-context
+
+work participants:
+Johan Andres Sanchez Calderon
+Jhon Alexander fernandez
+Alejandro Murillo Paniagua
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
